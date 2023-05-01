@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Ed-Tech
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Ed-thech is a learning paltform. Anyone can easily learn from here. Here is some module based on dirrent topics.
 
 ## Available Scripts
 
