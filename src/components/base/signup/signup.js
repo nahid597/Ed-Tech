@@ -20,7 +20,7 @@ const SignupComponent = () => {
       localStorage.setItem("loggedIn", true);
       setErrorMessage("");
 
-      toast.success('Signup Successfully!!', {
+      toast.success('Signup Successfully !!', {
         position: toast.POSITION.TOP_RIGHT
     });
 
