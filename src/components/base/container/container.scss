@@ -1,0 +1,15 @@
+.divContainer {
+    border-bottom: 1px solid gray;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+.containerItem {
+    p:hover {
+        color: blue;
+    }
+}
+
+.courseText:hover {
+    border: 1px solid green;
+}
