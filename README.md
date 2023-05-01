@@ -1,6 +1,6 @@
 # Ed-Tech
 
-Ed-thech is a learning paltform. Anyone can easily learn from here. Here is some module based on dirrent topics.
+Ed-thech is a learning paltform. Anyone can easily learn from here. Here is some module based on differnt topics like web development, data science, busines and marketing, product design etc
 
 ## Available Scripts
 
