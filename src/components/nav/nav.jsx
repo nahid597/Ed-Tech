@@ -47,10 +47,10 @@ function NavComponent() {
             <Button variant="outline-success">Search</Button>
           </Form>
           <Nav>
-          <Nav.Link href="#action2">
+          <Nav.Link href="/login">
           <Button variant="outline-info">Login</Button>
           </Nav.Link>
-          <Nav.Link href="#action2">
+          <Nav.Link href="/signup">
           <Button variant="outline-info">SignUp</Button>
           </Nav.Link>
           </Nav>
