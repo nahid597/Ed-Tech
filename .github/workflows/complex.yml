@@ -1,0 +1,23 @@
+name: complex workflow
+on: push
+jobs:
+    ubuntu:
+        runs-on: ubunty-latest
+        steps:
+            - name: ubuntu runner
+              run: date
+    windows:
+        runs-on: windows-latest
+        steps:
+            - name: windows runner
+              run: date
+    macos:
+        runs-on: macos-latest
+        steps:
+            - name: macos runner
+              run: date
+    depends:
+        needs: [ubuntu, windows, macos]
+        runs-on: macos-latest
+        steps:
+            - run: date
