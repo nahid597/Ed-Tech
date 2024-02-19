@@ -2,7 +2,7 @@ name: complex workflow
 on: push
 jobs:
     ubuntu:
-        runs-on: ubunty-latest
+        runs-on: ubuntu-latest
         steps:
             - name: ubuntu runner
               run: date
